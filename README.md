@@ -7,20 +7,15 @@
 
 <div display="inline-block" align="center"> 
   <a href="https://linkedin.com/in/dipanjan-pathak" title="LinkedIn">
-    <img width="35px" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="LinkedIn" style="vertical-align:top;">
+    <img width="35" height="35" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="LinkedIn" style="vertical-align:top;">
   </a>
   &emsp;
-  
  <a href="https://www.dipanjan.tech" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portfolio" width="30" height="30" style="vertical-align:top;">
   </a>
   &emsp;
-  <a href="mailto:dipanjanpathak@gmail.com" title="Email">
-    <img width="35px" src="https://img.icons8.com/nolan/64/message-squared.png" alt="Email" style="vertical-align:top;">
-  </a>
-  &emsp;
-  <a href="https://medium.com/@dipanjanpathak" title="Medium">
-    <img width="35px" src="https://img.icons8.com/nolan/64/2a9d8f/medium.png" alt="Medium" style="vertical-align:top;">
+<a href="https://medium.com/@dipanjanpathak" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/2a9d8f/medium-new.png" alt="Medium" width="30" height="30">
   </a>
   &emsp;
   <a href="https://github.com/dipanjanpathak" title="GitHub">
