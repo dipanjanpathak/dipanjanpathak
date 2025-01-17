@@ -105,17 +105,14 @@ An aspiring **Data Scientist** and a passionate **MERN Stack Developer** with ex
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 ---
+<div align="center">
 
-## 🏗️ Projects List
+## 🏫 Education
 
-| Project Name                                   | Domain          | Description                                                                                              | Link                                       |
-|------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| **Mini GPT Model**                             | Deep Learning   | Developed a Mini GPT model using transformer architecture for text generation tasks.                     | [Code](https://github.com/dipanjanpathak/mini-gpt-model/) |
-| **Cold Email Generator**                       | Generative AI   | Built a generator using LangChain and Groq API for extracting job postings and generating tailored emails.| [Code](https://github.com/dipanjanpathak/cold_E-Mail_generator) |
-| **Stock Price Prediction Using LSTM**         | Deep Learning   | Created a stock price prediction model using LSTM and deployed a Django-based visualization website.     | [Code](https://github.com/dipanjanpathak/Stock-Price-Prediction) |
-| **Real Estate Recommendation and Analysis App** | Machine Learning| Built a MERN stack app for real estate recommendations using XGBoost and cosine similarity.              | [Code](https://github.com/dipanjanpathak/Master_ML-MERN-Realestate) |
-| **Movie Recommendation System**               | Machine Learning| Developed a recommendation system using the TMDB dataset and cosine similarity in a MERN stack app.      | [Code](https://github.com/dipanjanpathak/MERN_Movie_Recomendation) |
-| **Fine-Tuned Cat vs Dog Classifier**          | Deep Learning   | Implemented transfer learning with CNN layers and hyperparameter tuning for improved performance.        | [Code](https://github.com/dipanjanpathak/Dog-vs-Cat-Classifier) |
+| Degree                              | Institution               | Duration           | CGPA   | Link                                        |
+|-------------------------------------|---------------------------|--------------------|--------|---------------------------------------------|
+| **B.Tech in Mechanical Engineering** | MAKAUT                   | July 2020 - June 2023 | 8.68   | [See Credential](#) |
+| **Diploma in Mechanical Engineering** | Baruipur Govt. Polytechnic | July 2016 - June 2019 | 7.72   | [See Credential](https://www.dipanjan.tech/static/media/Diploma.3761896f4990edab0fbd.jpg) |
 
 ---
 
@@ -123,18 +120,26 @@ An aspiring **Data Scientist** and a passionate **MERN Stack Developer** with ex
 
 | Certification                      | Provider   | Duration                | Link                                        |
 |------------------------------------|------------|-------------------------|---------------------------------------------|
-| **Data Science Mentorship Program** | CampusX    | Nov 2022 - Aug 2024     | [See Credential](https://campusx.in)       |
-| **Full Stack Data Science Pro**     | PW Skills  | Dec 2023 - Jan 2025     | [See Credential](https://pwskills.com)     |
+| **Data Science Mentorship Program** | CampusX    | Nov 2022 - Aug 2024     | [See Credential](https://learnwith.campusx.in/share-certificate?serialno=CX-DSMP-B1-1302) |
+| **Full Stack Data Science Pro**     | PW Skills  | Dec 2023 - Jan 2025     | [See Credential](https://pwskills.com/learn/certificate/21b6230e-0d99-4511-9a9b-33826a84708b/) |
 
 ---
 
-## 🏫 Education
 
-| Degree                              | Institution               | Duration           | CGPA   | Link                                        |
-|-------------------------------------|---------------------------|--------------------|--------|---------------------------------------------|
-| **B.Tech in Mechanical Engineering** | MAKAUT                   | July 2020 - June 2023 | 8.68   | [See Credential](https://makautwb.ac.in)   |
-| **Diploma in Mechanical Engineering** | Baruipur Govt. Polytechnic | July 2016 - June 2019 | 7.72   | [See Credential](https://polytechnic.wb.gov.in) |
+## 🏗️ Projects List
 
+
+| Project Name                                   | Domain          | Description                                                                                              | Link                                       |
+|------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| **Real Estate Recommendation and Analysis App** | Machine Learning| Built a MERN stack app for real estate recommendations using XGBoost and cosine similarity. Deployed online for interactive analysis. | [Code](https://github.com/dipanjanpathak/Master_ML-MERN-Realestate)  [Website](https://www.property.dipanjan.tech) |
+| **Mini GPT Model**                             | Deep Learning   | Developed a Mini GPT model using transformer architecture for text generation tasks.                     | [Code](https://github.com/dipanjanpathak/mini-gpt-model/) |
+| **Cold Email Generator**                       | Generative AI   | Built a generator using LangChain and Groq API for extracting job postings and generating tailored emails.| [Code](https://github.com/dipanjanpathak/cold_E-Mail_generator) |
+| **Stock Price Prediction Using LSTM**         | Deep Learning   | Created a stock price prediction model using LSTM and deployed a Django-based visualization website.     | [Code](https://github.com/dipanjanpathak/Stock-Price-Prediction) |
+| **Movie Recommendation System**               | Machine Learning| Developed a recommendation system using the TMDB dataset and cosine similarity in a MERN stack app.      | [Code](https://github.com/dipanjanpathak/MERN_Movie_Recomendation) |
+| **Fine-Tuned Cat vs Dog Classifier**          | Deep Learning   | Implemented transfer learning with CNN layers and hyperparameter tuning for improved performance.        | [Code](https://github.com/dipanjanpathak/Dog-vs-Cat-Classifier) |
+
+
+</div>
 
 ---
 
@@ -157,12 +162,3 @@ An aspiring **Data Scientist** and a passionate **MERN Stack Developer** with ex
 ### **Trophies**
 ![Trophies](https://github-profile-trophy.vercel.app/?username=dipanjanpathak&theme=radical&no-frame=true&margin-w=15)
 
----
-
-## 🌟 Coursework
-- Data Structures and Algorithms  
-- Optimization for Machine Learning  
-- Probability and Statistics  
-- Machine Learning & Deep Learning  
-- Natural Language Processing (NLP)  
-- Computer Vision and GANs  
