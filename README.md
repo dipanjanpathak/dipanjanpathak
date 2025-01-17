@@ -137,6 +137,7 @@ An aspiring **Data Scientist** and a passionate **MERN Stack Developer** with ex
 | **Stock Price Prediction Using LSTM**         | Deep Learning   | Created a stock price prediction model using LSTM and deployed a Django-based visualization website.     | [Code](https://github.com/dipanjanpathak/Stock-Price-Prediction) |
 | **Movie Recommendation System**               | Machine Learning| Developed a recommendation system using the TMDB dataset and cosine similarity in a MERN stack app.      | [Code](https://github.com/dipanjanpathak/MERN_Movie_Recomendation) |
 | **Fine-Tuned Cat vs Dog Classifier**          | Deep Learning   | Implemented transfer learning with CNN layers and hyperparameter tuning for improved performance.        | [Code](https://github.com/dipanjanpathak/Dog-vs-Cat-Classifier) |
+| **MERN Stack E-Commerce App**                  | Web Development | Developed a full-stack e-commerce application with React, Node.js, and MongoDB, featuring authentication, product management, and cart functionality. | [Code](https://github.com/dipanjanpathak/ML_Project-MERN_Ecom) |
 
 
 </div>
