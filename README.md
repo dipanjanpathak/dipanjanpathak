@@ -1,4 +1,3 @@
-# Hi there, I'm Dipanjan 👋  
 
 <!-- Centered Content -->
 <div class="center-content">
@@ -41,7 +40,9 @@
 
 
 ## 🚀 About Me
-I am an aspiring **Data Scientist** and a passionate **MERN Stack Developer** with expertise in Machine Learning, Deep Learning, and AI-driven solutions. From crafting intelligent models to building scalable web applications, I aim to transform data into actionable insights.
+#### Hi there, I'm Dipanjan 👋  
+
+An aspiring **Data Scientist** and a passionate **MERN Stack Developer** with expertise in Machine Learning, Deep Learning, and AI-driven solutions. From crafting intelligent models to building scalable web applications, I aim to transform data into actionable insights.
 
 ---
 ## 🛠️ Tools & Technologies
@@ -105,6 +106,38 @@ I am an aspiring **Data Scientist** and a passionate **MERN Stack Developer** wi
 
 ---
 
+## 🏗️ Projects List
+
+| Project Name                                   | Domain          | Description                                                                                              | Link                                       |
+|------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| **Mini GPT Model**                             | Deep Learning   | Developed a Mini GPT model using transformer architecture for text generation tasks.                     | [Code](https://github.com/dipanjanpathak/mini-gpt-model/) |
+| **Cold Email Generator**                       | Generative AI   | Built a generator using LangChain and Groq API for extracting job postings and generating tailored emails.| [Code](https://github.com/dipanjanpathak/cold_E-Mail_generator) |
+| **Stock Price Prediction Using LSTM**         | Deep Learning   | Created a stock price prediction model using LSTM and deployed a Django-based visualization website.     | [Code](https://github.com/dipanjanpathak/Stock-Price-Prediction) |
+| **Real Estate Recommendation and Analysis App** | Machine Learning| Built a MERN stack app for real estate recommendations using XGBoost and cosine similarity.              | [Code](https://github.com/dipanjanpathak/Master_ML-MERN-Realestate) |
+| **Movie Recommendation System**               | Machine Learning| Developed a recommendation system using the TMDB dataset and cosine similarity in a MERN stack app.      | [Code](https://github.com/dipanjanpathak/MERN_Movie_Recomendation) |
+| **Fine-Tuned Cat vs Dog Classifier**          | Deep Learning   | Implemented transfer learning with CNN layers and hyperparameter tuning for improved performance.        | [Code](https://github.com/dipanjanpathak/Dog-vs-Cat-Classifier) |
+
+---
+
+## 🎓 Certifications
+
+| Certification                      | Provider   | Duration                | Link                                        |
+|------------------------------------|------------|-------------------------|---------------------------------------------|
+| **Data Science Mentorship Program** | CampusX    | Nov 2022 - Aug 2024     | [See Credential](https://campusx.in)       |
+| **Full Stack Data Science Pro**     | PW Skills  | Dec 2023 - Jan 2025     | [See Credential](https://pwskills.com)     |
+
+---
+
+## 🏫 Education
+
+| Degree                              | Institution               | Duration           | CGPA   | Link                                        |
+|-------------------------------------|---------------------------|--------------------|--------|---------------------------------------------|
+| **B.Tech in Mechanical Engineering** | MAKAUT                   | July 2020 - June 2023 | 8.68   | [See Credential](https://makautwb.ac.in)   |
+| **Diploma in Mechanical Engineering** | Baruipur Govt. Polytechnic | July 2016 - June 2019 | 7.72   | [See Credential](https://polytechnic.wb.gov.in) |
+
+
+---
+
 ## 📈 GitHub Stats & Charts
 
 ### **General Stats**
@@ -116,6 +149,7 @@ I am an aspiring **Data Scientist** and a passionate **MERN Stack Developer** wi
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipanjanpathak&theme=radical" alt="GitHub Profile Metrics" width="100%">
 </p>
+
 
 
 ---
