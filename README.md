@@ -1,7 +1,14 @@
 # Hi there, I'm Dipanjan Pathak 👋  
 ### **Data Science Enthusiast | Full Stack Developer | AI Explorer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=dipanjanpathak&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=dipanjanpathak&color=blue)  
+<p align="right">
+  <a href="https://linkedin.com/in/dipanjan-pathak" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.dipanjan.tech" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=internet-explorer&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:dipanjanpathak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://medium.com/@dipanjanpathak" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://github.com/dipanjanpathak" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
@@ -54,43 +61,17 @@ I am an aspiring **Data Scientist** and a passionate **Full Stack Developer** wi
 
 ---
 
-## 🎓 Education
-| Degree                         | Institution                | Duration          | CGPA  |
-|--------------------------------|----------------------------|-------------------|-------|
-| **B.Tech in Mechanical Eng.**  | MAKAUT                    | 2020 - 2023       | 8.68  |
-| **Diploma in Mechanical Eng.** | Baruipur Govt. Polytechnic | 2016 - 2019       | 7.72  |
-
----
-
-## 🏆 Certifications
-| Certification                              | Organization | Duration               |
-|-------------------------------------------|--------------|------------------------|
-| **Data Science Mentorship Program (DSMP)**| CampusX      | Nov 2022 - Aug 2024   |
-| **Full Stack Data Science Pro (FSDS)**    | PW Skills    | Dec 2023 - Jan 2025   |
-
----
-
-## 🚀 Projects
-
-| Name                                 | Description                                                                                      | Technologies                     | Links                                                                 |
-|--------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------|----------------------------------------------------------------------|
-| **Real Estate Recommendation System**| MERN Stack app with property prediction & recommendations using ML (XGBoost) and live analysis. | React, Redux, XGBoost, Plotly.js| [Live Demo](https://www.property.dipanjan.tech) [Code](https://github.com/dipanjanpathak/Master_ML-MERN-Realestate) |
-| **Movie Recommendation System**      | Personalized movie suggestions using cosine similarity on the TMDB dataset.                     | React, Redux, Python, Flask     | [Code](https://github.com/dipanjanpathak/MERN_Movie_Recomendation)   |
-| **Stock Price Prediction**           | LSTM model deployed on a Django-based interactive website for stock trend visualization.         | Python, Django, LSTM            | [Code](https://github.com/dipanjanpathak/Stock-Price-Prediction)     |
-| **Cold Email Generator**             | LangChain-based generator for extracting job postings and creating tailored emails.              | Python, LangChain, Groq API     | [Code](https://github.com/dipanjanpathak/cold_E-Mail_generator)      |
-| **Mini GPT Model**                   | Transformer-based text generation model trained on WikiText-2 dataset.                          | Python, TensorFlow, Transformers| [Code](https://github.com/dipanjanpathak/mini-gpt-model)             |
-| **Cat vs Dog Classifier**            | Fine-tuned CNN model for robust classification of cats and dogs.                                | Python, TensorFlow, Keras       | [Code](https://github.com/dipanjanpathak/Dog-vs-Cat-Classifier)      |
-
----
-
 ## 📈 GitHub Stats & Charts
-![Dipanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipanjanpathak&show_icons=true&theme=radical&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpathak&layout=compact&theme=radical)  
-
+![Dipanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipanjanpathak&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpathak&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipanjanpathak&theme=radical)
 
 ---
 
-## 🌐 Connect with Me
-- ![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=internet-explorer&logoColor=white) [www.dipanjan.tech](https://www.dipanjan.tech)  
-- ![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white) [dipanjanpathak@gmail.com](mailto:dipanjanpathak@gmail.com)  
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [linkedin.com/in/dipanjan-pathak](https://linkedin.com/in/dipanjan-pathak)  
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) [github.com/dipanjanpathak](https://github.com/dipanjanpathak)  
+## 🌟 Coursework
+- Data Structures and Algorithms  
+- Optimization for Machine Learning  
+- Probability and Statistics  
+- Machine Learning & Deep Learning  
+- Natural Language Processing (NLP)  
+- Computer Vision and GANs  
