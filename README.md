@@ -42,7 +42,8 @@
 ## 🚀 About Me
 #### Hi there, I'm Dipanjan 👋  
 
-An aspiring **Data Scientist** and a passionate **MERN Stack Developer** with expertise in Machine Learning, Deep Learning, and AI-driven solutions. From crafting intelligent models to building scalable web applications, I aim to transform data into actionable insights.
+An aspiring **Data Scientist** and a passionate **MERN Stack Developer** with expertise in Machine Learning, Deep Learning, and AI-driven solutions. From crafting intelligent models to building scalable web applications, I aim to transform data into actionable insights.  
+For more details, [**📄 Check My Resume**](https://www.dipanjan.tech/static/media/Dipanjan_Pathak.7aac168fcd9322bb3f63.pdf)
 
 ---
 ## 🛠️ Tools & Technologies
