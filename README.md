@@ -1,11 +1,12 @@
-# Hi there, I'm Dipanjan Pathak 👋  <p align="right">
+# Hi there, I'm Dipanjan Pathak 👋  
+### **Data Science Enthusiast | Full Stack Developer | AI Explorer**
+<p align="right">
   <a href="https://linkedin.com/in/dipanjan-pathak" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.dipanjan.tech" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=internet-explorer&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:dipanjanpathak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://medium.com/@dipanjanpathak" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://github.com/dipanjanpathak" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
-### **Data Science Enthusiast | Full Stack Developer | AI Explorer**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dipanjanpathak&color=blue)  
 
