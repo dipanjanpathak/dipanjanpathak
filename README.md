@@ -64,9 +64,7 @@ I am an aspiring **Data Scientist** and a passionate **Full Stack Developer** wi
 ---
 
 ## 📈 GitHub Stats & Charts
-![Dipanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipanjanpathak&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpathak&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipanjanpathak&theme=radical)
+![Dipanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipanjanpathak&show_icons=true&theme=radical&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpathak&layout=compact&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipanjanpathak&theme=radical)
 
 ---
 
