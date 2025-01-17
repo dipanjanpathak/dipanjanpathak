@@ -112,6 +112,7 @@ For more details, [**📄 Check My Resume**](https://www.dipanjan.tech/static/me
 
 | Degree                              | Institution               | Duration           | CGPA   | Link                                        |
 |-------------------------------------|---------------------------|--------------------|--------|---------------------------------------------|
+| **MBA** | MAKAUT                   | July 2023 - Present | --   | [See Credential](#) |
 | **B.Tech in Mechanical Engineering** | MAKAUT                   | July 2020 - June 2023 | 8.68   | [See Credential](#) |
 | **Diploma in Mechanical Engineering** | Baruipur Govt. Polytechnic | July 2016 - June 2019 | 7.72   | [See Credential](https://www.dipanjan.tech/static/media/Diploma.3761896f4990edab0fbd.jpg) |
 
