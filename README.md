@@ -35,8 +35,7 @@ I am an aspiring **Data Scientist** and a passionate **Full Stack Developer** wi
 ---
 
 ### 💻 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 
@@ -64,8 +63,9 @@ I am an aspiring **Data Scientist** and a passionate **Full Stack Developer** wi
 ---
 
 ## 📈 GitHub Stats & Charts
-![Dipanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipanjanpathak&show_icons=true&theme=radical&count_private=true)   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipanjanpathak&theme=radical)
-
+![Dipanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipanjanpathak&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpathak&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipanjanpathak&theme=radical)
 
 ---
 
