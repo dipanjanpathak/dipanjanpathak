@@ -1,5 +1,5 @@
 # Hi there, I'm Dipanjan 👋  
-### **Data Science Enthusiast | Full Stack Developer | AI Explorer**
+### **ML | DL | Data Science | Django | MERN Stack**
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dipanjanpathak&color=blue)  
@@ -28,7 +28,7 @@
 
 
 ## 🚀 About Me
-I am an aspiring **Data Scientist** and a passionate **Full Stack Developer** with expertise in Machine Learning, Deep Learning, and AI-driven solutions. From crafting intelligent models to building scalable web applications, I aim to transform data into actionable insights.
+I am an aspiring **Data Scientist** and a passionate **MERN Stack Developer** with expertise in Machine Learning, Deep Learning, and AI-driven solutions. From crafting intelligent models to building scalable web applications, I aim to transform data into actionable insights.
 
 ---
 
