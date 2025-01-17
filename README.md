@@ -11,9 +11,7 @@
   <a href="https://www.dipanjan.tech" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portfolio" width="30" height="30">
   </a>
-  <a href="mailto:dipanjanpathak@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/f4a261/email.png" alt="Email" width="30" height="30">
-  </a>
+  
   <a href="https://medium.com/@dipanjanpathak" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/2a9d8f/medium-new.png" alt="Medium" width="30" height="30">
   </a>
