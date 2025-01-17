@@ -1,39 +1,42 @@
 # Hi there, I'm Dipanjan 👋  
-### **ML | DL | Data Science | Django | MERN Stack**
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2000&pause=1500&color=FFFFFF&background=1e242a&center=true&vCenter=true&random=false&width=420&lines=Hello!+%F0%9F%91%8B;I+am+Dipanjan+Pathak;Nice+to+meet+you!;Welcome+to+my+profile!;Check+out+my+portfolio!" alt="Typing SVG" />
-</div>
+<!-- Centered Content -->
+<div class="center-content">
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2000&pause=1500&color=FFFFFF&background=1e242a&center=true&vCenter=true&random=false&width=420&lines=Hello!+%F0%9F%91%8B;I+am+Dipanjan+Pathak;Nice+to+meet+you!;Welcome+to+my+profile!;Check+out+my+portfolio!" alt="Typing SVG" />
+  </div>
 
-<div display="inline-block" align="center"> 
-  <a href="https://linkedin.com/in/dipanjan-pathak" title="LinkedIn">
-    <img width="35" height="35" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="LinkedIn" style="vertical-align:top;">
-  </a>
-  &emsp;
- <a href="https://www.dipanjan.tech" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portfolio" width="30" height="30" style="vertical-align:top;">
-  </a>
-  &emsp;
-<a href="https://medium.com/@dipanjanpathak" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/2a9d8f/medium-new.png" alt="Medium" width="30" height="30">
-  </a>
-  &emsp;
-  <a href="https://github.com/dipanjanpathak" title="GitHub">
-    <img width="35px" src="https://img.icons8.com/nolan/64/github.png" alt="GitHub" style="vertical-align:top;">
-  </a>
+  <div display="inline-block" align="center"> 
+    <a href="https://linkedin.com/in/dipanjan-pathak" title="LinkedIn">
+      <img width="35" height="35" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="LinkedIn" style="vertical-align:top;">
+    </a>
+    &emsp;
+    <a href="https://www.dipanjan.tech" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portfolio" width="30" height="30" style="vertical-align:top;">
+    </a>
+    &emsp;
+    <a href="https://medium.com/@dipanjanpathak" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/2a9d8f/medium-new.png" alt="Medium" width="30" height="30">
+    </a>
+    &emsp;
+    <a href="https://github.com/dipanjanpathak" title="GitHub">
+      <img width="35px" src="https://img.icons8.com/nolan/64/github.png" alt="GitHub" style="vertical-align:top;">
+    </a>  
+  </div>
+
+  <div display="inline-block" align="center"> 
+    <h3> ML | DL | Data Science | Django | MERN Stack</h3>
+  </div>
+
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=dipanjanpathak&color=blue" alt="Profile Views" />
+    <a href="https://github.com/dipanjanpathak?tab=followers">
+      <img src="https://img.shields.io/github/followers/dipanjanpathak.svg?style=social&label=Followers" alt="GitHub Followers" />
+    </a>
+  </div>
 </div>
 
 <hr>
-
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=dipanjanpathak&color=blue)
-  <br>
-  [![GitHub followers](https://img.shields.io/github/followers/dipanjanpathak.svg?style=social&label=Followers)](https://github.com/dipanjanpathak?tab=followers)
-</div>
-
-
-
-
 
 
 
@@ -41,8 +44,8 @@
 I am an aspiring **Data Scientist** and a passionate **MERN Stack Developer** with expertise in Machine Learning, Deep Learning, and AI-driven solutions. From crafting intelligent models to building scalable web applications, I aim to transform data into actionable insights.
 
 ---
-
 ## 🛠️ Tools & Technologies
+
 ### 🧠 **Data Science & AI**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -54,6 +57,9 @@ I am an aspiring **Data Scientist** and a passionate **MERN Stack Developer** wi
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2E6CC0?style=for-the-badge&logo=data&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-028482?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -91,12 +97,31 @@ I am an aspiring **Data Scientist** and a passionate **MERN Stack Developer** wi
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats & Charts
-![Dipanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipanjanpathak&show_icons=true&theme=radical&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjanpathak&layout=compact&theme=radical)  
+
+### **General Stats**
+![Dipanjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipanjanpathak&show_icons=true&theme=radical&count_private=true)
+![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipanjanpathak&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipanjanpathak&theme=radical)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dipanjanpathak&theme=radical)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipanjanpathak&theme=radical" alt="GitHub Profile Metrics" width="100%">
+</p>
+
+
+---
+
+### **Trophies**
+![Trophies](https://github-profile-trophy.vercel.app/?username=dipanjanpathak&theme=radical&no-frame=true&margin-w=15)
 
 ---
 
