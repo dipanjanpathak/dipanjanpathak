@@ -1,18 +1,31 @@
 # Hi there, I'm Dipanjan Pathak 👋  
 ### **Data Science Enthusiast | Full Stack Developer | AI Explorer**
-<p align="right">
-  <a href="https://linkedin.com/in/dipanjan-pathak" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.dipanjan.tech" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=internet-explorer&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:dipanjanpathak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://medium.com/@dipanjanpathak" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://github.com/dipanjanpathak" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dipanjanpathak&color=blue)  
 
+<p align="right">
+  <a href="https://linkedin.com/in/dipanjan-pathak" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" width="30" height="30">
+  </a>
+  <a href="https://www.dipanjan.tech" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portfolio" width="30" height="30">
+  </a>
+  <a href="mailto:dipanjanpathak@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/email.png" alt="Email" width="30" height="30">
+  </a>
+  <a href="https://medium.com/@dipanjanpathak" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-new.png" alt="Medium" width="30" height="30">
+  </a>
+  <a href="https://github.com/dipanjanpathak" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="30" height="30">
+  </a>
+</p>
 
 
----
+
+
+
 
 ## 🚀 About Me
 I am an aspiring **Data Scientist** and a passionate **Full Stack Developer** with expertise in Machine Learning, Deep Learning, and AI-driven solutions. From crafting intelligent models to building scalable web applications, I aim to transform data into actionable insights.
