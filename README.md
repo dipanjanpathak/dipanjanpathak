@@ -113,8 +113,8 @@ For more details, [**📄 Check My Resume**](https://www.dipanjan.tech/static/me
 | Degree                              | Institution               | Duration           | CGPA   | Link                                        |
 |-------------------------------------|---------------------------|--------------------|--------|---------------------------------------------|
 | **MBA** | MAKAUT                   | July 2023 - Present | --   | [See Credential](#) |
-| **B.Tech in Mechanical Engineering** | MAKAUT                   | July 2020 - June 2023 | 8.68   | [See Credential](#) |
-| **Diploma in Mechanical Engineering** | Baruipur Govt. Polytechnic | July 2016 - June 2019 | 7.72   | [See Credential](https://www.dipanjan.tech/static/media/Diploma.3761896f4990edab0fbd.jpg) |
+| **B.Tech in Mechanical Engineering** | MAKAUT                   | July 2020 - June '23 | 8.68   | [See Credential](#) |
+| **Diploma in Mechanical Engineering** | Baruipur Govt. Polytechnic | July 2016 - June '19 | 7.72   | [See Credential](https://www.dipanjan.tech/static/media/Diploma.3761896f4990edab0fbd.jpg) |
 
 ---
 
@@ -122,8 +122,8 @@ For more details, [**📄 Check My Resume**](https://www.dipanjan.tech/static/me
 
 | Certification                      | Provider   | Duration                | Link                                        |
 |------------------------------------|------------|-------------------------|---------------------------------------------|
-| **Data Science Mentorship Program** | CampusX    | Nov 2022 - Aug 2024     | [See Credential](https://learnwith.campusx.in/share-certificate?serialno=CX-DSMP-B1-1302) |
-| **Full Stack Data Science Pro**     | PW Skills  | Dec 2023 - Jan 2025     | [See Credential](https://pwskills.com/learn/certificate/21b6230e-0d99-4511-9a9b-33826a84708b/) |
+| **Data Science Mentorship Program** | CampusX    | Nov 2022 - Aug '24     | [See Credential](https://learnwith.campusx.in/share-certificate?serialno=CX-DSMP-B1-1302) |
+| **Full Stack Data Science Pro**     | PW Skills  | Dec 2023 - Jan '25     | [See Credential](https://pwskills.com/learn/certificate/21b6230e-0d99-4511-9a9b-33826a84708b/) |
 
 ---
 
