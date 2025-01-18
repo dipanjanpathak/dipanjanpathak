@@ -108,39 +108,18 @@ For more details, [**📄 Check My Resume**](https://www.dipanjan.tech/static/me
 ---
 <div align="center">
 
-## 🏫 Education
-
-| Degree                              | Institution               | Duration           | CGPA   | Link                                        |
-|-------------------------------------|---------------------------|--------------------|--------|---------------------------------------------|
-| **MBA** | MAKAUT                   | July 2023 - Present | --   | [See Credential](#) |
-| **B.Tech in Mechanical Engineering** | MAKAUT                   | July 2020 - June '23 | 8.68   | [See Credential](#) |
-| **Diploma in Mechanical Engineering** | Baruipur Govt. Polytechnic | July 2016 - June '19 | 7.72   | [See Credential](https://www.dipanjan.tech/static/media/Diploma.3761896f4990edab0fbd.jpg) |
-
----
-
-## 🎓 Certifications
-
-| Certification                      | Provider   | Duration                | Link                                        |
-|------------------------------------|------------|-------------------------|---------------------------------------------|
-| **Data Science Mentorship Program** | CampusX    | Nov 2022 - Aug '24     | [See Credential](https://learnwith.campusx.in/share-certificate?serialno=CX-DSMP-B1-1302) |
-| **Full Stack Data Science Pro**     | PW Skills  | Dec 2023 - Jan '25     | [See Credential](https://pwskills.com/learn/certificate/21b6230e-0d99-4511-9a9b-33826a84708b/) |
-
----
-
-
 ## 🏗️ Projects List
 
 
-| Project Name                                   | Domain          | Description                                                                                              | Link                                       |
-|------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| **Real Estate Recommendation and Analysis App** | Machine Learning| Built a MERN stack app for real estate recommendations using XGBoost and cosine similarity. Deployed online for interactive analysis. | [Code](https://github.com/dipanjanpathak/Master_ML-MERN-Realestate)  [Website](https://www.property.dipanjan.tech) |
-| **Mini GPT Model**                             | Deep Learning   | Developed a Mini GPT model using transformer architecture for text generation tasks.                     | [Code](https://github.com/dipanjanpathak/mini-gpt-model/) |
-| **Cold Email Generator**                       | Generative AI   | Built a generator using LangChain and Groq API for extracting job postings and generating tailored emails.| [Code](https://github.com/dipanjanpathak/cold_E-Mail_generator) |
-| **Stock Price Prediction Using LSTM**         | Deep Learning   | Created a stock price prediction model using LSTM and deployed a Django-based visualization website.     | [Code](https://github.com/dipanjanpathak/Stock-Price-Prediction) |
-| **Movie Recommendation System**               | Machine Learning| Developed a recommendation system using the TMDB dataset and cosine similarity in a MERN stack app.      | [Code](https://github.com/dipanjanpathak/MERN_Movie_Recomendation) |
-| **Fine-Tuned Cat vs Dog Classifier**          | Deep Learning   | Implemented transfer learning with CNN layers and hyperparameter tuning for improved performance.        | [Code](https://github.com/dipanjanpathak/Dog-vs-Cat-Classifier) |
-| **MERN Stack E-Commerce App**                  | Web Development | Developed a full-stack e-commerce application with React, Node.js, and MongoDB, featuring authentication, product management, and cart functionality. | [Code](https://github.com/dipanjanpathak/ML_Project-MERN_Ecom) |
-
+| Project Name                                   | Domain          | Description                                                                                                                                 |
+|------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**Real Estate Recommendation and Analysis App**](https://www.property.dipanjan.tech) | Machine Learning| Built a MERN stack app for real estate recommendations using XGBoost and cosine similarity. Deployed online for interactive analysis. |
+| [**Mini GPT Model**](https://github.com/dipanjanpathak/mini-gpt-model/)                            | Deep Learning   | Developed a Mini GPT model using transformer architecture for text generation tasks.                      |
+| [**Cold Email Generator**](https://github.com/dipanjanpathak/cold_E-Mail_generator)                       | Generative AI   | Built a generator using LangChain and Groq API for extracting job postings and generating tailored emails.| 
+| [**Stock Price Prediction Using LSTM**](https://github.com/dipanjanpathak/Stock-Price-Prediction)         | Deep Learning   | Created a stock price prediction model using LSTM and deployed a Django-based visualization website.     | 
+| [**Movie Recommendation System**](https://github.com/dipanjanpathak/MERN_Movie_Recomendation)               | Machine Learning| Developed a recommendation system using the TMDB dataset and cosine similarity in a MERN stack app.      | 
+| [**Fine-Tuned Cat vs Dog Classifier**](https://github.com/dipanjanpathak/Dog-vs-Cat-Classifier)          | Deep Learning   | Implemented transfer learning with CNN layers and hyperparameter tuning for improved performance.        | 
+| [**MERN Stack E-Commerce App**](https://github.com/dipanjanpathak/ML_Project-MERN_Ecom)                  | Web Development | Developed a full-stack e-commerce application with React, Node.js, and MongoDB, featuring authentication, product management, and cart functionality. |
 
 </div>
 
@@ -152,7 +131,7 @@ For more details, [**📄 Check My Resume**](https://www.dipanjan.tech/static/me
 ![Dipanjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipanjanpathak&show_icons=true&theme=radical&count_private=true)
 ![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipanjanpathak&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipanjanpathak&theme=radical)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dipanjanpathak&theme=radical)
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipanjanpathak&theme=radical" alt="GitHub Profile Metrics" width="100%">
@@ -162,6 +141,5 @@ For more details, [**📄 Check My Resume**](https://www.dipanjan.tech/static/me
 
 ---
 
-### **Trophies**
-![Trophies](https://github-profile-trophy.vercel.app/?username=dipanjanpathak&theme=radical&no-frame=true&margin-w=15)
+
 
