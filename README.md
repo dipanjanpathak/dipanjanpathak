@@ -11,11 +11,11 @@
     </a>
     &emsp;
     <a href="https://www.dipanjan.tech" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portfolio" width="30" height="30" style="vertical-align:top;">
+      <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/domain.png" alt="Portfolio" width="35" style="vertical-align:top;">
     </a>
     &emsp;
     <a href="https://medium.com/@dipanjanpathak" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/2a9d8f/medium-new.png" alt="Medium" width="30" height="30">
+      <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/medium-new.png" alt="Medium" width="35" >
     </a>
     &emsp;
     <a href="https://github.com/dipanjanpathak" title="GitHub">
