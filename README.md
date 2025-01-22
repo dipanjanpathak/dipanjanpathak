@@ -120,6 +120,7 @@ For more details, [**📄 Check My Resume**](https://www.dipanjan.tech/static/me
 | [**Movie Recommendation System**](https://github.com/dipanjanpathak/MERN_Movie_Recomendation)               | Machine Learning| Developed a recommendation system using the TMDB dataset and cosine similarity in a MERN stack app.      | 
 | [**Fine-Tuned Cat vs Dog Classifier**](https://github.com/dipanjanpathak/Dog-vs-Cat-Classifier)          | Deep Learning   | Implemented transfer learning with CNN layers and hyperparameter tuning for improved performance.        | 
 | [**MERN Stack E-Commerce App**](https://github.com/dipanjanpathak/ML_Project-MERN_Ecom)                  | Web Development | Developed a full-stack e-commerce application with React, Node.js, and MongoDB, featuring authentication, product management, and cart functionality. |
+| [**Invisibility Cloak OpenCV**](https://github.com/dipanjanpathak/Invisibility-Cloak-OpenCV)                  | Computer Vision | This project demonstrates the creation of an invisibility cloak effect using OpenCV and Python. By utilizing HSV color space, masking techniques, and real-time video processing, it replaces a specific color in the video frame with the background, creating a magical "invisible" effect. |
 
 </div>
 
