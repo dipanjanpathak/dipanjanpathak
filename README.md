@@ -138,7 +138,7 @@ For more details, [**📄 Check My Resume**](https://www.dipanjan.tech/static/me
 </p>
 
 
----
+===
 [![trophy](https://github-profile-trophy.vercel.app/?username=dipanjanpathak&theme=radical&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
