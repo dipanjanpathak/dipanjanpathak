@@ -133,10 +133,15 @@ For more details, [**📄 Check My Resume**](https://www.dipanjan.tech/static/me
 ![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipanjanpathak&theme=radical)
 
 
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipanjanpathak&theme=radical" alt="GitHub Profile Metrics" width="100%">
 </p>
+
+
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=dipanjanpathak&theme=radical&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipanjanpathak&theme=radical) --!>
 
