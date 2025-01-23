@@ -142,6 +142,7 @@ For more details, [**📄 Check My Resume**](https://www.dipanjan.tech/static/me
 
 
 
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipanjanpathak&theme=radical)
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipanjanpathak&theme=radical) --!>
 
 
