@@ -1,5 +1,4 @@
 
-<!-- Centered Content -->
 <div class="center-content">
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2000&pause=1500&color=FFFFFF&background=1e242a&center=true&vCenter=true&random=false&width=420&lines=Hello!+%F0%9F%91%8B;I+am+Dipanjan+Pathak;Nice+to+meet+you!;Welcome+to+my+profile!;Check+out+my+portfolio!" alt="Typing SVG" />
