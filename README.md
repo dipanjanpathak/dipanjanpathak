@@ -19,7 +19,11 @@
     &emsp;
     <a href="https://github.com/dipanjanpathak" title="GitHub">
       <img width="35px" src="https://img.icons8.com/nolan/64/github.png" alt="GitHub" style="vertical-align:top;">
-    </a>  
+    </a>
+    &emsp;
+    <a href="https://leetcode.com/u/dipanjanpathak/" title="LeetCode">
+      <img width="35" height="35" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/code.png" alt="LeetCode" style="vertical-align:top;">
+    </a>
   </div>
 
   <div display="inline-block" align="center"> 
