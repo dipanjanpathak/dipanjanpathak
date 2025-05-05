@@ -27,7 +27,7 @@
   </div>
 
   <div display="inline-block" align="center"> 
-    <h3> ML | DL | NLP | GenAI | Data Science | Django | MERN Stack</h3>
+    <h3> ML | DL | Python | JAVA | NLP | GenAI | Data Science | Django | MERN Stack</h3>
   </div>
 
   <div align="center">
