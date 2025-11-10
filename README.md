@@ -48,6 +48,8 @@
 A **Data Scientist** and a passionate **MERN Stack Developer** with expertise in Machine Learning, Deep Learning, and AI-driven solutions. From crafting intelligent models to building scalable web applications, I aim to transform data into actionable insights.
 
 Total repo : 23 || Public : 15 | Private :  6
+
+
 For more details, [**📄 Check My Portfolio**](https://www.dipanjan.tech/)
 
 ---
